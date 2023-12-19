@@ -172,8 +172,7 @@ footer {
   }
 
   .games-img img {
-    width: 100px; /* aumenta a largura para 100% */
-    height: auto; /* ajusta a altura automaticamente */
+    object-fit: contain;
   }
 
   .store-front {
